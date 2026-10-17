@@ -6,7 +6,7 @@ haiere@github:~$ ./maintainer.sh
 
 <a href="https://hajir.is-a.dev/">
   <img
-    src="./ayano-banner.png"
+    src="./ayano-banner.jpg"
     width="any"
     alt="Ayano Kimishima anime banner"
   />
